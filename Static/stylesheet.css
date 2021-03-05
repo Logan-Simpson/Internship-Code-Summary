@@ -1,0 +1,38 @@
+.nav-text {
+    color: black;
+}
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #D3C0B2;
+    color: black;
+    text-align: center;
+}
+
+.form-check {
+    margin-left: 15px;
+}
+
+.newsBtn {
+    margin-left: 15px;
+    border-radius: 6px;
+    border: none;
+    opacity: 1;
+    transition: 0.3s;
+    padding: 7px 17px;
+    background-color: #568387; color: white;
+}
+
+.closeBtn {
+    background-color: #D3C0B2; color: black;
+    margin-left: 15px;
+    border-radius: 6px;
+    border: none;
+    opacity: 1;
+    transition: 0.3s;
+    padding: 7px 17px;
+}
+
+.newsBtn:hover {opacity:0.5}
+.closeBtn:hover {opacity:0.5}
