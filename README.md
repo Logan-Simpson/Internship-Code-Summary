@@ -1,2 +1,4 @@
 # Live-Project-Code-Summary
 This is what I worked on for my live project.  The main page is a Lifestyle site with links to various hobbies, activites, and interests.  The link I developed is the Yoga page.  For this project all the code was written in VS Code, with HTML, CSS, Bootstrap and JS.  I used Azure DevOps and Slack to collaborate with other team members for this project and to connect with my project managers.  This work was done in a two week sprint.  The project managers held daily standups to discuss what I worked on and any roadblocks I had.  On Mondays we held sprint planning sessions and on Fridays we held a daily standup as well as a sprint retrospective. 
+![Screenshot (4)](https://user-images.githubusercontent.com/71109424/110986281-539f2f00-8322-11eb-8ab0-cebbf4f2957c.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/71109424/110986474-8e08cc00-8322-11eb-9fb3-14198519ef20.png)
