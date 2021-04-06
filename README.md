@@ -2,7 +2,7 @@
 OVERVIEW:
   This is my project I worked on for my internship with Prosper IT Consulting.  The main page is a Lifestyle site with links to various hobbies, activites, and interests.  My job was to create a lifestyle page that branched off of the main/home page.  
 
-TASKS:  
+TASKS/APPROACH:  
   The link I developed is the Yoga page.  I was assigned stories/tasks to complete by my project manager.  For this project all the code was written in VS Code, with HTML, CSS, Bootstrap and JS.  I used Azure DevOps and Slack to collaborate with other team members for this project and to connect with my project managers.  First I decided what the main sections of the page would be and how I wanted the layout to look.  I also wanted the color scheme to be soothing/zen because it's about yoga, which is how I decided on the color scheme.  I started with a basic HTML skeleton and added bootstrap componenets to that.  After I got the basic layout working, I added in the images and CSS styling to it. 
 
 SUMMARY:  
